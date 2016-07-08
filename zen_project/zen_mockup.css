@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Nova+Square);
+body {margin: 10%;
+    background-color: #EEEEEE;
+}
+h1, h2, h3 {font-family: 'Nova Square', cursive;}
+h1 {color: #E23045; font-size:40px; margin-bottom:19.8px;
+}
+h2 {background-color: #E23045; color:white; border-radius: 2px;
+}
+.intro {margin:0;}
+.preamble {background-color: #1B4549; color: white; padding-left: 15px;
+  padding-top: 10px; padding-bottom: 10px;box-shadow: 30px 30px #7AB3B0; border-radius: 2px;}
+  .explanation {margin-top: 50px;border: solid black 1px; padding-left:20px;
+    padding-right: 10px; box-shadow: 30px 30px #7AB3B0; border-radius: 2px;
+}
+  .participation { margin-top: 50px; border: solid black 1px; padding-left:
+  20px; padding-right: 10px; box-shadow: 30px 30px #7AB3B0; border-radius: 2px;}
+
+  p a{color: #E33A4D; text-decoration: none;}
+
+
+footer a{background-color: gray; padding: 3px 7px 3px; text-decoration: none;
+  color: white; box-shadow: 10px 10px #D8CFBC; border-radius: 2px;}
+footer {margin-top: 50px;width: 30%;margin-left: auto; margin-right: auto;}
+aside {display: inline-block; vertical-align: top ;margin-top: 50px; color: white;}
+main {width: 59%;display: inline-block; }
+.resources {display: none;}
+aside li{background-color: red; list-style-type: none; margin: 10px;
+text-align: center; margin: 10px; padding: 5px 10px 5px; box-shadow: 15px 15px #F59581}
+aside li a{color: white; text-decoration: none;}
